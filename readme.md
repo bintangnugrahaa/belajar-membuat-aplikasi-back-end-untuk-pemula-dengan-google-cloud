@@ -1,4 +1,4 @@
-![Proyek Akhir Submission dan Review]([http://url/to/img.png](https://i.ibb.co.com/2yt1RrS/Screenshot-2024-10-22-225226.png))
+![Proyek Akhir Submission dan Review](https://i.ibb.co.com/2yt1RrS/Screenshot-2024-10-22-225226.png)
 
 # Backend Development with Google Cloud - Learning Repository
 
